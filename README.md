@@ -1,36 +1,40 @@
 # Hi, I'm Osa Edegbe 👋
 
-### Data Quality Engineering | KYC | Claims | Disputes | Python & SQL
+### Data Science · Data Quality · Python · SQL · KYC · Healthcare Claims · Disputes
 
-I work at the intersection of data analytics, governance, and financial-services operations. My interests include making case data more accurate, traceable, and useful through repeatable checks, exception monitoring, and clear reporting.
+I'm a data analytics and governance professional with experience in financial services, data quality, privacy, and operational reporting. I'm interested in using transparent, testable analytics to improve data reliability and support better human decisions.
 
-## 🔍 Featured portfolio project
+## 🔬 Featured Data Science Projects
 
-### 🏦 [Financial Operations Data Quality Lab — KYC, Claims & Disputes](./projects/financial-operations-data-quality)
+### 🏥 [Healthcare Claims Analytics & Denial-Risk Baseline](./projects/healthcare-claims-data-science)
+A reproducible **synthetic healthcare** data science project with 1,600 fictional claims, exploratory analysis, a time-ordered train/test split, a logistic-regression baseline, and evaluation using ROC AUC, average precision, and Brier score.
 
-An original, **fictional-data demonstration** that applies Python data-quality rules to three operational areas:
+**Tools:** Python · pandas · numpy · scikit-learn · Classification · Model Evaluation
 
-- **KYC onboarding and periodic reviews:** ownership values, risk ratings, review dates, EDD status, and duplicate case identifiers.
-- **Insurance claims:** policy references, loss/reporting dates, reserve-versus-claim warnings, and missing closure dates.
-- **Payment disputes:** transaction references, disputed-amount reconciliation, timeline consistency, and resolved-case records.
+### 📊 [KYC, Claims & Disputes — Operational Anomaly Analytics](./projects/financial-operations-data-science)
+A fictional 900-case queue illustrating unsupervised anomaly detection for **manual operational review**. Includes feature engineering, Isolation Forest, ranked review candidates, and domain-level summaries.
 
-**What's included:** a reusable Python command-line validator, three synthetic CSV datasets, structured JSON exception reporting, a unit-test suite, and a documented rulebook. Findings are meant for review—not automatic compliance, claims, or dispute decisions.
+**Tools:** Python · pandas · scikit-learn · Anomaly Detection · Data Quality
 
-[**Browse the project and run instructions**](./projects/financial-operations-data-quality)
+### 🏦 [Financial Operations Data Quality Lab](./projects/financial-operations-data-quality)
+Rule-based exception checks for **KYC reviews, insurance claims, and payment disputes**. Includes a reusable Python CLI, fictional datasets, structured JSON reports, and unit tests.
 
-## 🛠️ Technical toolkit
+**Tools:** Python · Rule Validation · Exception Reporting · Data Governance
 
-**Languages:** Python · SQL · R  
-**Analytics:** Pandas · Power BI · Tableau · Excel  
-**Data practices:** Data Quality · Data Validation · Data Governance · Metadata Management · Exception Reporting
+## 💻 More Code Samples
 
-## 📁 Additional code examples
+- [Python Data Quality Validator](./projects/data-quality-validator) — CSV completeness, duplication, and format checks.
+- [SQL Customer Data Quality & Profiling](./projects/sql-customer-quality) — SQLite data profiling, duplicate checks, and trend queries.
 
-- [Python Data Quality Validator](./projects/data-quality-validator) — missing-field, duplicate, email, and date checks using fictional records.
-- [SQL Customer Data Quality & Profiling](./projects/sql-customer-quality) — SQLite examples for missing values, repeated identifiers, and monthly record counts.
+## 🛠️ Technical Toolkit
 
-## 🌱 Areas of interest
+**Programming:** Python · SQL · R  
+**Data science:** pandas · NumPy · scikit-learn · Data Profiling · Classification · Anomaly Detection · Model Evaluation  
+**Visualization & BI:** Power BI · Tableau · Excel  
+**Data management:** Data Quality · Data Governance · Metadata Management · Data Validation
 
-Python automation · Testable data pipelines · Data-quality scorecards · KYC operations · Claims and disputes analytics · Open-source collaboration
+## 🤝 Interests
 
-> **Portfolio transparency:** These are educational samples built with synthetic data, not confidential employer materials, verified production deployments, or claims of prior open-source maintenance.
+Healthcare operations analytics · KYC lifecycle analytics · Claims and disputes · Reproducible machine learning · Explainable reporting · Open-source collaboration
+
+> **Portfolio integrity:** Projects in this profile are educational examples with fully synthetic or fictional data. They are not employer deliverables, production medical/compliance systems, or claims of established open-source maintainership.
