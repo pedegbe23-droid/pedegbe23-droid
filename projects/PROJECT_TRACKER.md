@@ -31,6 +31,14 @@
 - [KYC, claims and disputes anomaly walkthrough](./financial-operations-data-science/README.md)
 - [Rule-based financial operations quality walkthrough](./financial-operations-data-quality/README.md)
 
+## Roadmap and automated verification
+
+- [Project board — Done / In Progress / To Do](./PROJECT_BOARD.md)
+- [Python automated tests workflow](../.github/workflows/portfolio-tests.yml)
+- [Inspect workflow runs](../actions)
+
+The test workflow configuration has been committed. Its execution status must be verified in GitHub Actions; do not treat the presence of the workflow as a passing run.
+
 ## Roadmap (planned, not yet delivered)
 
 ### Phase 1 — Baseline code and documentation
@@ -40,7 +48,7 @@
 - [x] README instructions and test source files
 
 ### Phase 2 — Reproducibility and reporting
-- [ ] GitHub Actions workflow for Python unit tests
+- [x] GitHub Actions workflow configuration for Python unit tests (passing run not yet confirmed)
 - [ ] Data dictionaries and more boundary-condition tests
 - [ ] Charts and clear metric definitions
 - [ ] Versioned sample result snapshots
