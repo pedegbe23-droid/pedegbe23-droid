@@ -1,0 +1,6 @@
+customer_id,email,country,onboarding_date
+C001,ana@example.com,US,2026-01-15
+C002,ben@example.com,GB,2026-02-01
+C002,broken-email,US,2026-02-30
+C004,,CA,2026-03-01
+C005,ivy@example.com,,2026-03-10
