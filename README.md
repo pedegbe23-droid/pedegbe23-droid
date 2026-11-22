@@ -48,3 +48,10 @@ See the [**portfolio project tracker**](./projects/PROJECT_TRACKER.md) for each 
 - [Automated testing and reproducibility](../../issues/3)
 
 **Timeline note:** These GitHub examples were created in November 2026. Any work from 2025 will be described separately and only if supported by actual records; commits and development history will not be backdated.
+
+## 📌 Project Board & Automated Tests
+
+- [**Project board — Done / In Progress / To Do**](./projects/PROJECT_BOARD.md)
+- [**Python test workflow**](./.github/workflows/portfolio-tests.yml) · [View Actions runs](./actions)
+
+Work is documented with actual commit dates. The portfolio examples use fictional data.
