@@ -1,0 +1,5 @@
+case_id,customer_type,risk_rating,review_date,next_review_due,ubo_percent,pep_flag,edd_status,case_status
+KYC-1001,corporate,medium,2026-01-15,2027-01-15,25,no,not_required,completed
+KYC-1002,corporate,high,2026-02-01,2026-01-01,35,unknown,not_required,pending
+KYC-1003,individual,low,2026-03-14,2027-03-14,0,no,not_required,completed
+KYC-1003,corporate,high,2026-04-01,2027-04-01,110,yes,pending,completed
