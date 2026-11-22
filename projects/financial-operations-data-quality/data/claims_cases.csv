@@ -1,0 +1,5 @@
+claim_id,policy_id,loss_date,reported_date,claimed_amount,reserve_amount,status,decision_date
+CLM-2001,P-100,2026-02-01,2026-02-03,2500,2000,investigating,
+CLM-2002,P-101,2026-04-10,2026-04-09,4000,4500,open,
+CLM-2003,P-102,2026-05-10,2026-05-12,1800,1800,closed,
+CLM-2004,P-103,2026-06-01,2026-06-02,700,300,closed,2026-06-10
