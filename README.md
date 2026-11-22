@@ -1,36 +1,36 @@
 # Hi, I'm Osa Edegbe 👋
 
-### Python • SQL • Data Analytics • Data Governance
+### Data Quality Engineering | KYC | Claims | Disputes | Python & SQL
 
-I'm a data analytics and governance professional with experience in financial services, data quality, privacy, and technology. I'm interested in making data more trustworthy through practical validation, analysis, and automation.
+I work at the intersection of data analytics, governance, and financial-services operations. My interests include making case data more accurate, traceable, and useful through repeatable checks, exception monitoring, and clear reporting.
 
-## 🛠️ Technical Toolkit
+## 🔍 Featured portfolio project
+
+### 🏦 [Financial Operations Data Quality Lab — KYC, Claims & Disputes](./projects/financial-operations-data-quality)
+
+An original, **fictional-data demonstration** that applies Python data-quality rules to three operational areas:
+
+- **KYC onboarding and periodic reviews:** ownership values, risk ratings, review dates, EDD status, and duplicate case identifiers.
+- **Insurance claims:** policy references, loss/reporting dates, reserve-versus-claim warnings, and missing closure dates.
+- **Payment disputes:** transaction references, disputed-amount reconciliation, timeline consistency, and resolved-case records.
+
+**What's included:** a reusable Python command-line validator, three synthetic CSV datasets, structured JSON exception reporting, a unit-test suite, and a documented rulebook. Findings are meant for review—not automatic compliance, claims, or dispute decisions.
+
+[**Browse the project and run instructions**](./projects/financial-operations-data-quality)
+
+## 🛠️ Technical toolkit
 
 **Languages:** Python · SQL · R  
 **Analytics:** Pandas · Power BI · Tableau · Excel  
-**Data Practices:** Data Quality · Data Validation · Data Governance · Metadata Management  
-**Interests:** Software Engineering · Automation · AI · Open Source
+**Data practices:** Data Quality · Data Validation · Data Governance · Metadata Management · Exception Reporting
 
-## 📂 Featured Code Samples
+## 📁 Additional code examples
 
-### 🐍 [Python Data Quality Validator](./projects/data-quality-validator)
-A runnable Python example that profiles fictional customer records, detects duplicates and missing fields, checks date formats, and outputs a structured JSON issue report. Includes three automated unit tests.
+- [Python Data Quality Validator](./projects/data-quality-validator) — missing-field, duplicate, email, and date checks using fictional records.
+- [SQL Customer Data Quality & Profiling](./projects/sql-customer-quality) — SQLite examples for missing values, repeated identifiers, and monthly record counts.
 
-**Stack:** Python standard library · CSV · unittest
+## 🌱 Areas of interest
 
-### 🗃️ [SQL Customer Data Quality & Profiling](./projects/sql-customer-quality)
-A SQLite example with a synthetic customer dataset and queries for missing fields, duplicate IDs, and monthly onboarding counts.
+Python automation · Testable data pipelines · Data-quality scorecards · KYC operations · Claims and disputes analytics · Open-source collaboration
 
-**Stack:** SQLite · SQL
-
-> **About these projects:** These are sample projects prepared to demonstrate technical concepts. They use fictional data and are not claimed as prior employer work or existing open-source contributions.
-
-## 🌱 Currently Exploring
-
-- Python automation and reusable data-quality checks
-- Clear, testable SQL reporting workflows
-- Open-source collaboration and software development practices
-
-## 🤝 Connect
-
-I'm interested in collaborating on data quality, analytics, Python, and automation projects.
+> **Portfolio transparency:** These are educational samples built with synthetic data, not confidential employer materials, verified production deployments, or claims of prior open-source maintenance.
