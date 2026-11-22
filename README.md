@@ -38,3 +38,13 @@ Rule-based exception checks for **KYC reviews, insurance claims, and payment dis
 Healthcare operations analytics · KYC lifecycle analytics · Claims and disputes · Reproducible machine learning · Explainable reporting · Open-source collaboration
 
 > **Portfolio integrity:** Projects in this profile are educational examples with fully synthetic or fictional data. They are not employer deliverables, production medical/compliance systems, or claims of established open-source maintainership.
+
+## 🧭 Build Process & Project Progress
+
+See the [**portfolio project tracker**](./projects/PROJECT_TRACKER.md) for each project's development workflow, current deliverables, and next milestones. Follow progress through [GitHub Issues](../../issues):
+
+- [Healthcare model explainability and evaluation](../../issues/1)
+- [KYC, claims and disputes quality dashboards](../../issues/2)
+- [Automated testing and reproducibility](../../issues/3)
+
+**Timeline note:** These GitHub examples were created in November 2026. Any work from 2025 will be described separately and only if supported by actual records; commits and development history will not be backdated.
