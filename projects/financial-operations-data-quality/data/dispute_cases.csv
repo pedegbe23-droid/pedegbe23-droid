@@ -1,0 +1,5 @@
+dispute_id,transaction_id,transaction_date,dispute_date,transaction_amount,disputed_amount,reason_code,status,resolution_date
+DSP-3001,TX-901,2026-03-01,2026-03-08,125,125,unauthorized,investigating,
+DSP-3002,TX-902,2026-04-08,2026-04-01,80,80,duplicate,resolved,
+DSP-3003,TX-903,2026-05-11,2026-05-14,150,175,not_received,open,
+DSP-3004,TX-904,2026-06-01,2026-06-04,90,90,unauthorized,resolved,2026-06-07
